@@ -62,5 +62,5 @@ The Gate opens if it recognizes a vehicle,
 
 ![image](/images/Parking_System.jpg )
 
-https://drive.google.com/drive/folders/16yybUwELF2PQNBvK46XUpUE22_iz-QK0?usp=sharing
+https://drive.google.com/drive/folders/16yybUwELF2PQNBvK46XUpUE22_iz-QK0?usp=sharing <br>
 The above link will direct you the google drive folder of the video and images of the hardware assembled and their working.
